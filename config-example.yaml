@@ -56,7 +56,7 @@ policy:
   path: ""
 dns:
   magic_dns: true
-  base_domain: example.com
+  base_domain: internal.veryprivate.cloud
   override_local_dns: false
   nameservers:
     global:
